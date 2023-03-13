@@ -1,0 +1,62 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="138" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="32">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="1" class="java.lang.String" itemvalue="coverage" />
+            <item index="2" class="java.lang.String" itemvalue="pytest" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="requests" />
+            <item index="5" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="6" class="java.lang.String" itemvalue="sanic" />
+            <item index="7" class="java.lang.String" itemvalue="multidict" />
+            <item index="8" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="9" class="java.lang.String" itemvalue="starlette" />
+            <item index="10" class="java.lang.String" itemvalue="fastapi" />
+            <item index="11" class="java.lang.String" itemvalue="pydantic" />
+            <item index="12" class="java.lang.String" itemvalue="acl" />
+            <item index="13" class="java.lang.String" itemvalue="fastweb" />
+            <item index="14" class="java.lang.String" itemvalue="tasker" />
+            <item index="15" class="java.lang.String" itemvalue="aiofiles" />
+            <item index="16" class="java.lang.String" itemvalue="migrations" />
+            <item index="17" class="java.lang.String" itemvalue="ioc" />
+            <item index="18" class="java.lang.String" itemvalue="aioch" />
+            <item index="19" class="java.lang.String" itemvalue="aioredis" />
+            <item index="20" class="java.lang.String" itemvalue="ujson" />
+            <item index="21" class="java.lang.String" itemvalue="aiofluent" />
+            <item index="22" class="java.lang.String" itemvalue="database" />
+            <item index="23" class="java.lang.String" itemvalue="messaging" />
+            <item index="24" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="25" class="java.lang.String" itemvalue="cent" />
+            <item index="26" class="java.lang.String" itemvalue="yaml" />
+            <item index="27" class="java.lang.String" itemvalue="plugins" />
+            <item index="28" class="java.lang.String" itemvalue="entity_history" />
+            <item index="29" class="java.lang.String" itemvalue="pytest-asyncio" />
+            <item index="30" class="java.lang.String" itemvalue="atomic" />
+            <item index="31" class="java.lang.String" itemvalue="bencode" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="license" />
+          <option value="type" />
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="requirements.InstalledPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
